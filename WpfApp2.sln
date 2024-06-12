@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{3E73EABD-84F0-4496-AC0C-6D9F0E77A204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLib", "CustomLib\CustomLib.csproj", "{745CB916-350D-4552-A878-A86FE0CA97BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{6D742FBC-F211-4AFA-94EE-41D48EF333D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E73EABD-84F0-4496-AC0C-6D9F0E77A204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E73EABD-84F0-4496-AC0C-6D9F0E77A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E73EABD-84F0-4496-AC0C-6D9F0E77A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E73EABD-84F0-4496-AC0C-6D9F0E77A204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745CB916-350D-4552-A878-A86FE0CA97BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745CB916-350D-4552-A878-A86FE0CA97BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745CB916-350D-4552-A878-A86FE0CA97BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745CB916-350D-4552-A878-A86FE0CA97BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D742FBC-F211-4AFA-94EE-41D48EF333D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D742FBC-F211-4AFA-94EE-41D48EF333D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D742FBC-F211-4AFA-94EE-41D48EF333D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D742FBC-F211-4AFA-94EE-41D48EF333D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1EF4ED6-DE41-48B6-9E19-A8158ACA3599}
+	EndGlobalSection
+EndGlobal
